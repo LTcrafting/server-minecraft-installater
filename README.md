@@ -6,4 +6,4 @@ Il n'y a rien de très compliqué:<br><br>
 **`3.`** Vous double-clique sur le `server-minecraft-installater.bat` <br>
 **`4.`** Spigot et un fichier `start.bat` sont créés <br>
 **`5.`** Double-cliquer sur `la start.bat` pour lancer le serveur<br><br>
-Et voilà le serveur se lance, vous devriez avoir une erreur (`You need to agree to the EULA in order to run the server. Go to eula.txt for more info.`), c'est normal: dans `eula.txt` remplacer `false` par `true`
+Et voilà le serveur se lance, vous devriez avoir une erreur (`You need to agree to the EULA in order to run the server. Go to eula.txt for more info.`), c'est normal: ouvrez `eula.txt` et remplacer `false` par `true`
