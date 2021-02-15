@@ -8,4 +8,4 @@ Il n'y a rien de très compliqué:<br><br>
 **`5.`** Double-cliquer sur `la start.bat` pour lancer le serveur<br><br>
 Et voilà le serveur se lance, vous devriez avoir une erreur (`You need to agree to the EULA in order to run the server. Go to eula.txt for more info.`), c'est normal: ouvrez `eula.txt` et remplacer `false` par `true`
 
-Pour se connecter au serveur, rendez vous sur Minecraft en 1.16.5, aller dans multijoueur, et mettez `localhost` comme IP
+Pour se connecter au serveur, rendez vous sur Minecraft en 1.16.5, aller dans multijoueur, et mettez `localhost` comme IP (étends donnez que le serveur est hébergé sur votre ordinateur, seul vous y avez accès)
