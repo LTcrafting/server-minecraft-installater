@@ -1,7 +1,7 @@
 # server-minecraft-installer
 Ce fichier uniquement exécutable sous Windows vous permet d'installer un serveur Minecraft 1.16.5 pour y jouer en local<br>
 Il n'y a rien de très compliqué:<br><br>
-**`1.`** Vous installez le fichier `server-minecraft-installater.bat` (cliquez sur "code" (le bouton en vert) puis "download zip")<br>
+**`1.`** Vous installez le fichier `server-minecraft-installater.bat` (cliquez sur "__code__" (le bouton en vert) puis "__download zip__")<br>
 **`2.`** Vous le mettez dans le dossier où vous souhaitez que soit le serveur Minecraft <br>
 **`3.`** Vous double-clique sur le `server-minecraft-installater.bat` <br>
 **`4.`** Spigot et un fichier `start.bat` sont créés <br>
