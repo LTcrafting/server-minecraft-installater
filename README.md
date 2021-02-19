@@ -6,7 +6,7 @@ Il n'y a rien de très compliqué:<br><br>
 **`3.`** Vous double-clique sur le `server-minecraft-installater.bat` <br>
 **`4.`** Spigot et un fichier `start.bat` sont créés <br>
 **`5.`** Le programme vous demande si vous voulez qu'il se supprime, si vous souhaitez qu'il se supprime car il ne servira plus à rien, tapez `Y`. Si vous voulez le garder tapez `N`<br>
-**`6.`** Double-cliquer sur `la start.bat` pour lancer le serveur<br><br>
+**`6.`** Double-cliquer sur `start.bat` pour lancer le serveur<br><br>
 Et voilà le serveur se lance, vous devriez avoir une erreur (`You need to agree to the EULA in order to run the server. Go to eula.txt for more info.`), c'est normal: ouvrez `eula.txt` et remplacer `false` par `true`
 
 Pour se connecter au serveur, rendez vous sur Minecraft en 1.16.5, aller dans multijoueur, et mettez `localhost` comme IP (étends donnez que le serveur est hébergé sur votre ordinateur, seul vous y avez accès) <br><br>
